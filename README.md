@@ -30,10 +30,3 @@ Unlike standard RAG apps that rely on expensive external APIs, this project uses
 * **Vector Database:** FAISS (CPU)
 * **Embeddings:** Sentence-Transformers (`all-mpnet-base-v2`)
 * **Document Parsers:** `pdfplumber`, `docx2txt`, `LangChain WebBaseLoader`
-
-## ⚙️ Installation & Usage
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/akashrohit/DocQuery-Engine.git](https://github.com/akashrohit/DocQuery-Engine.git)
-cd DocQuery-Engine
